@@ -1,6 +1,6 @@
 {
-  "PREFIX": "W!"
-  "TOKEN": "ODMwMjcyMzMwNjc5OTc1OTk4.YHERXQ.1wZoJ8kv92fO5Y-LrxyvXHfxDZQ", 
+  "PREFIX": "W!",
+  "TOKEN": "ODMwMjcyMzMwNjc5OTc1OTk4.YHERXQ.oQa4qkVcIXCqs0KpUqCVPgfAPcY", 
   "QUEUE_LIMIT": 3,
   "COLOR": "PURPLE",
   "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=830272330679975998&permissions=8&scope=bot" 
